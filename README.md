@@ -37,7 +37,9 @@ Push()
   So, on the each pass of our loop in our example where the input is 123 
   
   1st pass) reverseN will store 3 because (0 * 10) + 3 = 3
+  
   2nd pass) reverseN will store 32 because (3 * 10) + 2 = 32
+  
   3rd pass) reverseN will store 321 because (32* 10) + 1 = 321 
   
  
